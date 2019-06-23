@@ -1,0 +1,48 @@
+.opop{
+    border:2px wheat solid;
+    background: #00d1b2;
+    width: 900px;
+    text-align: center;
+    font-size: 23px;
+    color: #F8F8F8;
+}
+.one{
+    border: 1px salmon dashed;
+    justify-content: center;
+    margin-top: 15px;
+}
+.two{
+    border: 1px lightgreen dashed;
+    margin-top: 30px;
+}
+.three{
+    border: 1px cadetblue dashed;
+    margin-top: 30px;
+}
+.four{
+    border:1px purple dashed;
+    margin-top: 30px;
+}
+.five{
+    border: 1px green dashed;
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+}
+.six{
+    border: 1px dodgerblue dashed;
+    margin-top: 30px;
+    width: 900px;
+    padding-top: -20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+h3{
+    border: transparent;
+    margin-top: 0px;
+}
+.img{
+    border: transparent;
+    margin-top: -20px;
+}
